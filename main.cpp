@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-  // Testeaza programul tau aici
+  cout <<"Vreau sa invat sa programez!";
   return 0;
 }
